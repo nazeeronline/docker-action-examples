@@ -1,4 +1,4 @@
-# Docker GitHub Action Example
+# Docker GitHub Action Example.
 
 ![Main Branch CI](https://github.com/metcalfc/docker-action-examples/workflows/Main%20Branch%20CI/badge.svg?branch=main) ![Nightly Test](https://github.com/metcalfc/docker-action-examples/workflows/Nightly%20Test/badge.svg?branch=main)
 
